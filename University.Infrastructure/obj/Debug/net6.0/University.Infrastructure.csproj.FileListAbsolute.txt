@@ -1,0 +1,12 @@
+C:\Users\Илюшка\Desktop\лабы\3 курс\.NET\NET_Bogdanow1\lab3\University.Infrastructure\bin\Debug\net6.0\University.Infrastructure.deps.json
+C:\Users\Илюшка\Desktop\лабы\3 курс\.NET\NET_Bogdanow1\lab3\University.Infrastructure\bin\Debug\net6.0\University.Infrastructure.dll
+C:\Users\Илюшка\Desktop\лабы\3 курс\.NET\NET_Bogdanow1\lab3\University.Infrastructure\bin\Debug\net6.0\University.Infrastructure.pdb
+C:\Users\Илюшка\Desktop\лабы\3 курс\.NET\NET_Bogdanow1\lab3\University.Infrastructure\obj\Debug\net6.0\University.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Илюшка\Desktop\лабы\3 курс\.NET\NET_Bogdanow1\lab3\University.Infrastructure\obj\Debug\net6.0\University.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илюшка\Desktop\лабы\3 курс\.NET\NET_Bogdanow1\lab3\University.Infrastructure\obj\Debug\net6.0\University.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Илюшка\Desktop\лабы\3 курс\.NET\NET_Bogdanow1\lab3\University.Infrastructure\obj\Debug\net6.0\University.Infrastructure.AssemblyInfo.cs
+C:\Users\Илюшка\Desktop\лабы\3 курс\.NET\NET_Bogdanow1\lab3\University.Infrastructure\obj\Debug\net6.0\University.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Илюшка\Desktop\лабы\3 курс\.NET\NET_Bogdanow1\lab3\University.Infrastructure\obj\Debug\net6.0\University.Infrastructure.dll
+C:\Users\Илюшка\Desktop\лабы\3 курс\.NET\NET_Bogdanow1\lab3\University.Infrastructure\obj\Debug\net6.0\refint\University.Infrastructure.dll
+C:\Users\Илюшка\Desktop\лабы\3 курс\.NET\NET_Bogdanow1\lab3\University.Infrastructure\obj\Debug\net6.0\University.Infrastructure.pdb
+C:\Users\Илюшка\Desktop\лабы\3 курс\.NET\NET_Bogdanow1\lab3\University.Infrastructure\obj\Debug\net6.0\ref\University.Infrastructure.dll

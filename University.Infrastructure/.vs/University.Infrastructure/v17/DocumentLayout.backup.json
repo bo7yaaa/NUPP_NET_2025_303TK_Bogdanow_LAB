@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0418\u043B\u044E\u0448\u043A\u0430\\Desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.NET\\NET_Bogdanow1\\lab3\\University.Infrastructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC15179-CB41-443B-9BFE-66BCCB859051}|..\\UniversityManagement.Console\\UniversityManagement.Console.csproj|c:\\users\\\u0438\u043B\u044E\u0448\u043A\u0430\\desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.net\\net_bogdanow1\\lab3\\universitymanagement.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F61862-E06A-4268-8F34-342AECD403DD}|University.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044E\u0448\u043A\u0430\\desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.net\\net_bogdanow1\\lab3\\university.infrastructure\\repositories\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F61862-E06A-4268-8F34-342AECD403DD}|University.Infrastructure.csproj|solutionrelative:repositories\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F61862-E06A-4268-8F34-342AECD403DD}|University.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044E\u0448\u043A\u0430\\desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.net\\net_bogdanow1\\lab3\\university.infrastructure\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F61862-E06A-4268-8F34-342AECD403DD}|University.Infrastructure.csproj|solutionrelative:repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F61862-E06A-4268-8F34-342AECD403DD}|University.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044E\u0448\u043A\u0430\\desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.net\\net_bogdanow1\\lab3\\university.infrastructure\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F61862-E06A-4268-8F34-342AECD403DD}|University.Infrastructure.csproj|solutionrelative:universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC15179-CB41-443B-9BFE-66BCCB859051}|..\\UniversityManagement.Console\\UniversityManagement.Console.csproj|c:\\users\\\u0438\u043B\u044E\u0448\u043A\u0430\\desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.net\\net_bogdanow1\\lab3\\universitymanagement.console\\universitymanagement.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F61862-E06A-4268-8F34-342AECD403DD}|University.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044E\u0448\u043A\u0430\\desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.net\\net_bogdanow1\\lab3\\university.infrastructure\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F61862-E06A-4268-8F34-342AECD403DD}|University.Infrastructure.csproj|solutionrelative:models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F61862-E06A-4268-8F34-342AECD403DD}|University.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044E\u0448\u043A\u0430\\desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.net\\net_bogdanow1\\lab3\\university.infrastructure\\models\\groupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F61862-E06A-4268-8F34-342AECD403DD}|University.Infrastructure.csproj|solutionrelative:models\\groupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F61862-E06A-4268-8F34-342AECD403DD}|University.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044E\u0448\u043A\u0430\\desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.net\\net_bogdanow1\\lab3\\university.infrastructure\\university.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17F61862-E06A-4268-8F34-342AECD403DD}|University.Infrastructure.csproj|solutionrelative:university.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044E\u0448\u043A\u0430\\Desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.NET\\NET_Bogdanow1\\lab3\\UniversityManagement.Console\\Program.cs",
+              "RelativeDocumentMoniker": "..\\UniversityManagement.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044E\u0448\u043A\u0430\\Desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.NET\\NET_Bogdanow1\\lab3\\UniversityManagement.Console\\Program.cs",
+              "RelativeToolTip": "..\\UniversityManagement.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:40:18.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UniversityContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044E\u0448\u043A\u0430\\Desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.NET\\NET_Bogdanow1\\lab3\\University.Infrastructure\\UniversityContext.cs",
+              "RelativeDocumentMoniker": "UniversityContext.cs",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044E\u0448\u043A\u0430\\Desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.NET\\NET_Bogdanow1\\lab3\\University.Infrastructure\\UniversityContext.cs",
+              "RelativeToolTip": "UniversityContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:40:04.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044E\u0448\u043A\u0430\\Desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.NET\\NET_Bogdanow1\\lab3\\University.Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044E\u0448\u043A\u0430\\Desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.NET\\NET_Bogdanow1\\lab3\\University.Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:39:53.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044E\u0448\u043A\u0430\\Desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.NET\\NET_Bogdanow1\\lab3\\University.Infrastructure\\Repositories\\EfRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EfRepository.cs",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044E\u0448\u043A\u0430\\Desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.NET\\NET_Bogdanow1\\lab3\\University.Infrastructure\\Repositories\\EfRepository.cs",
+              "RelativeToolTip": "Repositories\\EfRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:39:58.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UniversityManagement.Console.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044E\u0448\u043A\u0430\\Desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.NET\\NET_Bogdanow1\\lab3\\UniversityManagement.Console\\UniversityManagement.Console.csproj",
+              "RelativeDocumentMoniker": "..\\UniversityManagement.Console\\UniversityManagement.Console.csproj",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044E\u0448\u043A\u0430\\Desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.NET\\NET_Bogdanow1\\lab3\\UniversityManagement.Console\\UniversityManagement.Console.csproj",
+              "RelativeToolTip": "..\\UniversityManagement.Console\\UniversityManagement.Console.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T15:42:12.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044E\u0448\u043A\u0430\\Desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.NET\\NET_Bogdanow1\\lab3\\University.Infrastructure\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044E\u0448\u043A\u0430\\Desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.NET\\NET_Bogdanow1\\lab3\\University.Infrastructure\\Models\\StudentModel.cs",
+              "RelativeToolTip": "Models\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:39:28.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GroupModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044E\u0448\u043A\u0430\\Desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.NET\\NET_Bogdanow1\\lab3\\University.Infrastructure\\Models\\GroupModel.cs",
+              "RelativeDocumentMoniker": "Models\\GroupModel.cs",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044E\u0448\u043A\u0430\\Desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.NET\\NET_Bogdanow1\\lab3\\University.Infrastructure\\Models\\GroupModel.cs",
+              "RelativeToolTip": "Models\\GroupModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:39:31.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "University.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044E\u0448\u043A\u0430\\Desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.NET\\NET_Bogdanow1\\lab3\\University.Infrastructure\\University.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "University.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044E\u0448\u043A\u0430\\Desktop\\\u043B\u0430\u0431\u044B\\3 \u043A\u0443\u0440\u0441\\.NET\\NET_Bogdanow1\\lab3\\University.Infrastructure\\University.Infrastructure.csproj",
+              "RelativeToolTip": "University.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T15:39:09.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
